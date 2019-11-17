@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ssm">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="artifact" artifact-name="ssm1" />
+      <element id="artifact" artifact-name="ssm1:war" />
+    </root>
+  </artifact>
+</component>
